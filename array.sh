@@ -3,5 +3,5 @@
 MOVIES=("Court" "hit3" "Thandel" "pushpa2")
 
 echo "first movie: ${MOVIES[0]}"
-echo "second movie:${MOVIES[3]}"
-echo "third movie:${MOVIES[4]}"
+echo "second movie:${MOVIES[2]}"
+echo "third movie:${MOVIES[3]}"
