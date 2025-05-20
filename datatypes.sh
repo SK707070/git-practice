@@ -6,3 +6,4 @@ NUMBER2=200
 TIMESTAMP=$(DATE)
 ECHO "Script executed at: $timestamp"
 #SUM=$NUMBER1+$NUMBER2
+echo 
