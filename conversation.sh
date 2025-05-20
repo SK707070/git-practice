@@ -11,4 +11,4 @@ echo "$PERSON1:  ok then will see you back once all the tasks were done"
 echo "$PERSON2:: Good to hear that, See you soon"
 echo "$PERSON1:: Good to hear that, See you soon"
 echo "$PERSON1:: Good to hear that, See you soon"
-echo  nothing
+echo  nothing as of now
